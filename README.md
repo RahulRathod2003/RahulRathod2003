@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Rahul Rathod.
 
-<!--
-**RahulRathod2003/RahulRathod2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech (Electronics & Communication Engineering) Graduate  
+💻 Aspiring Software Developer | Data Enthusiast  
+📍 India  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔄 Transitioning from ECE to Software Development  
+- 💡 Passionate about building real-world projects  
+- 📚 Continuously learning new technologies  
+- 🎯 Goal: Full Stack Developer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+### 💻 Programming & Web
+- Python  
+- JavaScript  
+- HTML  
+- CSS  
+
+### 📊 Data & Analytics
+- Power BI  
+- Advanced Excel  
+- Basic SQL  
+
+### 🔧 Tools
+- Git & GitHub  
+- VS Code  
+- Netlify  
+
+## 📂 Projects
+### 🌍 Wanderlust Travel Website
+- Responsive travel website  
+- Built using HTML, CSS, and JavaScript  
+- Deployed using Netlify
+- 
+## 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/rahul-rathod-b08a32351  
+- 💻 GitHub: https://github.com/RahulRathod2003  
+- 📧 Email: rahulrathod53853@gmail.com
+- 
+⭐ “Consistent learning and building projects every day.”
+
+---
+
+⭐ “Consistent learning and building projects every day.”
