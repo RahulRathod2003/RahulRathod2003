@@ -40,6 +40,4 @@
 - 
 ⭐ “Consistent learning and building projects every day.”
 
----
 
-⭐ “Consistent learning and building projects every day.”
