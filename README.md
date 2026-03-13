@@ -4,40 +4,40 @@
 💻 Aspiring Software Developer | Data Enthusiast  
 📍 India  
 
-## 🚀 About Me
+## 🚀 About Me...
 - 🔄 Transitioning from ECE to Software Development  
 - 💡 Passionate about building real-world projects  
 - 📚 Continuously learning new technologies  
 - 🎯 Goal: Full Stack Developer  
 
-## 🛠️ Skills
-### 💻 Programming & Web
+## 🛠️ Skills...
+### 💻 Programming & Web..
 - Python  
 - JavaScript  
 - HTML  
 - CSS  
 
-### 📊 Data & Analytics
+### 📊 Data & Analytics...
 - Power BI  
 - Advanced Excel  
 - Basic SQL  
 
-### 🔧 Tools
+### 🔧 Tools...
 - Git & GitHub  
 - VS Code  
 - Netlify  
 
-## 📂 Projects
+## 📂 Projects...
 ### 🌍 Wanderlust Travel Website
 - Responsive travel website  
 - Built using HTML, CSS, and JavaScript  
 - Deployed using Netlify
 - 
-## 📫 Connect With Me
+## 📫 Connect With Me...
 - 💼 LinkedIn: https://www.linkedin.com/in/rahul-rathod-b08a32351  
 - 💻 GitHub: https://github.com/RahulRathod2003  
 - 📧 Email: rahulrathod53853@gmail.com
 - 
-⭐ “Consistent learning and building projects every day.”
+⭐ “Consistent learning and building projects every day."
 
 
