@@ -20,7 +20,7 @@
 ### 📊 Data & Analytics...
 - Power BI  
 - Advanced Excel  
-- Basic SQL  
+- Basic SQL
 
 ### 🔧 Tools...
 - Git & GitHub  
