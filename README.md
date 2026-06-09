@@ -9,12 +9,7 @@
 - 💡 Passionate about building real-world projects  
 - 📚 Continuously learning new technologies  
 - 🎯 Goal: Full Stack Developer
-- 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Analytics+Enthusiast;Aspiring+Software+Engineer;Building+Real+World+Projects+🚀" />
-</p>
-
-
+![snake gif](https://github.com/RahulRathod2003/RahulRathod2003/blob/output/github-contribution-grid-snake.svg)
 ## 🛠️ Skills...
 ### 💻 Programming & Web..
 - Python  
