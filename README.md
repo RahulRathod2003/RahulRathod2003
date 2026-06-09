@@ -38,7 +38,7 @@
 - 💻 GitHub: https://github.com/RahulRathod2003  
 - 📧 Email: rahulrathod53853@gmail.com
   ## 📄 Resume
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)](https://github.com/RahulRathod2003/RahulRathod2003/blob/main/RahulRathod__resume.pdf?raw=true)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)](https://github.com/RahulRathod2003/RahulRathod2003/blob/main/RahulRathod___resume.pdf)
 ## 🚀 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
