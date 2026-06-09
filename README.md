@@ -8,7 +8,9 @@
 - 🔄 Transitioning from ECE to Software Development  
 - 💡 Passionate about building real-world projects  
 - 📚 Continuously learning new technologies  
-- 🎯 Goal: Full Stack Developer  
+- 🎯 Goal: Full Stack Developer
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Python+Developer;Data+Analytics+Enthusiast;Aspiring+Software+Engineer)
+![](https://komarev.com/ghpvc/?username=RahulRathod2003&color=blue)
 
 ## 🛠️ Skills...
 ### 💻 Programming & Web..
