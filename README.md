@@ -9,8 +9,11 @@
 - 💡 Passionate about building real-world projects  
 - 📚 Continuously learning new technologies  
 - 🎯 Goal: Full Stack Developer
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Python+Developer;Data+Analytics+Enthusiast;Aspiring+Software+Engineer)
-![](https://komarev.com/ghpvc/?username=RahulRathod2003&color=blue)
+- 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Analytics+Enthusiast;Aspiring+Software+Engineer;Building+Real+World+Projects+🚀" />
+</p>
+
 
 ## 🛠️ Skills...
 ### 💻 Programming & Web..
