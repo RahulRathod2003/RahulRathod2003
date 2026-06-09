@@ -9,13 +9,6 @@
 - 💡 Passionate about building real-world projects  
 - 📚 Continuously learning new technologies  
 - 🎯 Goal: Full Stack Developer
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RahulRathod2003&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulRathod2003&layout=compact&theme=tokyonight"/>
-</p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=RahulRathod2003&label=Profile%20views&color=0e75b6&style=for-the-badge" />
-</p>
 ## 🛠️ Skills...
 ### 💻 Programming & Web..
 - Python  
