@@ -19,7 +19,7 @@
 ### 📊 Data & Analytics...
 - Power BI  
 - Advanced Excel  
-- Basic SQL
+- My SQL
 
 ### 🔧 Tools...
 - Git & GitHub  
@@ -30,8 +30,8 @@
 ### 🌍 Wanderlust Travel Website
 - Responsive travel website  
 - Built using HTML, CSS, and JavaScript  
-- Deployed using Netlify
-- 
+- Deployed using Netlify.
+  
 ## 📫 Connect With Me...
 - 💼 LinkedIn: https://www.linkedin.com/in/rahul-rathod-b08a32351  
 - 💻 GitHub: https://github.com/RahulRathod2003  
