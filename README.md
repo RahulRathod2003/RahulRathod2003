@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="./github-banner.png" width="100%" alt="Rahul Rathod - Developer Banner">
+<img src="./![Uploading github-banner.png.png…]()
+" width="100%" alt="Rahul Rathod - Developer Banner">
 
 # 👋 Hi, I'm Rahul Rathod
 
