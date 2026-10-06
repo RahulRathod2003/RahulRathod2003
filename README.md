@@ -26,13 +26,13 @@
 
 I'm a **B.Tech Electronics & Communication Engineering graduate** transitioning into software development.
 
-I enjoy building **real-world applications** using Python, JavaScript, Django, SQL, Data Analytics and AI technologies.
+I enjoy building **real-world applications** using Python, JavaScript, Django, SQL, Data Analytics, Machine Learning and AI technologies.
 
 My approach is simple:
 
 > **Learn → Build → Improve → Repeat**
 
-I believe the best way to learn technology is by building practical projects and solving real problems.
+I believe the best way to learn technology is by building practical projects and solving real-world problems.
 
 ### 🎯 Currently Focused On
 
@@ -40,22 +40,26 @@ I believe the best way to learn technology is by building practical projects and
 - 🌐 Django & Web Development
 - ⚡ JavaScript
 - 🗄️ SQL & Databases
-- 📊 Data Analytics & Power BI
-- 🤖 Artificial Intelligence & Generative AI
-- 🔗 RAG & LLM Applications
+- 📊 Data Analytics & Visualization
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Generative AI & LLM Applications
+- 🔥 Deep Learning with PyTorch
+- 🔗 RAG & AI Applications
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
-### 🌐 Web Development
+---
+
+## 🌐 Web Development
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -63,26 +67,45 @@ I believe the best way to learn technology is by building practical projects and
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </p>
 
-### 📊 Data & Analytics
+---
+
+## 📊 Data Analytics & Visualization
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </p>
 
-### 🤖 AI & Generative AI
+---
+
+## 🤖 AI / Machine Learning / Deep Learning
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LLM%20Applications-6A1B9A?style=for-the-badge">
+  <img src="https://img.shields.io/badge/RAG-7B1FA2?style=for-the-badge">
+</p>
+
+---
+
+## ⚡ AI Development Tools
 
 <p>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
   <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white">
-  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge">
-  <img src="https://img.shields.io/badge/RAG-Learning-6A1B9A?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Antigravity-1E1E1E?style=for-the-badge">
 </p>
 
-### 🔧 Tools
+---
+
+## 🔧 Developer Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -95,7 +118,7 @@ I believe the best way to learn technology is by building practical projects and
 
 # 🚀 Featured Projects
 
-I enjoy building projects that combine **software development, data and AI**.
+I enjoy building projects that combine **software development, data analytics and AI**.
 
 ---
 
@@ -111,7 +134,7 @@ An AI-powered application that analyzes resumes against job descriptions and pro
 - 🎯 ATS-style resume scoring
 - 🔎 Resume & job description matching
 - 🧩 Skill-gap identification
-- 📊 Interactive data visualization
+- 📊 Interactive visualizations
 - 🤖 LLM-powered analysis
 - 📑 PDF report generation
 
@@ -152,7 +175,7 @@ An AI-powered dashboard that allows users to upload CSV datasets and generate an
 
 ### Real-time weather application
 
-A Django-based weather application using the OpenWeatherMap API to provide real-time weather information.
+A Django-based weather application using the OpenWeatherMap API.
 
 ### ✨ Features
 
@@ -173,7 +196,7 @@ A Django-based weather application using the OpenWeatherMap API to provide real-
 
 ### Responsive travel website
 
-A frontend travel website built from scratch using HTML, CSS and JavaScript.
+A frontend travel website built using HTML, CSS and JavaScript.
 
 ### ✨ Features
 
@@ -195,7 +218,7 @@ A frontend travel website built from scratch using HTML, CSS and JavaScript.
 
 ## 📈 Indian Colleges & Universities Data Analysis
 
-### End-to-end Data Analytics project
+### End-to-end Data Analytics Project
 
 Analyzed data related to Indian educational institutions across:
 
@@ -211,12 +234,13 @@ Analyzed data related to Indian educational institutions across:
 - Data cleaning
 - Data preprocessing
 - Exploratory Data Analysis
+- Data visualization
 - Insight generation
 - Interactive Power BI dashboards
 
 ### 🛠️ Tools
 
-`Python` `Pandas` `NumPy` `SQL` `Excel` `Power BI`
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `SQL` `Excel` `Power BI`
 
 ---
 
@@ -231,37 +255,46 @@ Worked on an end-to-end data analytics project focused on Indian colleges and un
 - 🔹 Collected and mined educational datasets
 - 🔹 Cleaned and preprocessed data
 - 🔹 Performed data analysis using Python
+- 🔹 Used Pandas and NumPy for data processing
+- 🔹 Created visualizations using Matplotlib and Seaborn
 - 🔹 Worked with SQL
 - 🔹 Created interactive Power BI dashboards
 - 🔹 Generated meaningful insights from datasets
 
 ### Technologies Used
 
-`Python` `Pandas` `NumPy` `SQL` `Excel` `Power BI`
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `SQL` `Excel` `Power BI`
 
 ---
 
 # 🧠 What I Bring
 
 ```text
-💻 Software Development
+💻 SOFTWARE DEVELOPMENT
         │
         ├── Python
         ├── Django
-        └── JavaScript
+        ├── JavaScript
+        └── REST APIs
         │
         ▼
-📊 Data & Analytics
+📊 DATA & ANALYTICS
         │
         ├── SQL
         ├── Pandas
         ├── NumPy
+        ├── Matplotlib
+        ├── Seaborn
         └── Power BI
         │
         ▼
-🤖 AI Applications
+🤖 AI / MACHINE LEARNING
         │
-        ├── LLMs
+        ├── Machine Learning
+        ├── PyTorch
         ├── Generative AI
-        ├── RAG
-        └── AI-powered applications
+        ├── LLM Applications
+        └── RAG
+        │
+        ▼
+🚀 REAL-WORLD APPLICATIONS
